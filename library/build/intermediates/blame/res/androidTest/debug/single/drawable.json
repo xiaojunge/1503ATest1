@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/MVPTest1503A/library/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/MVPTest1503A/library/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/MVPTest1503A/library/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/MVPTest1503A/library/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    }
+]
